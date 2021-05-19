@@ -1,0 +1,4 @@
+{
+  "movieEndponit": "http://localhost:4000/movies",
+  "genreEndponit": "http://localhost:4000/genre"
+}
